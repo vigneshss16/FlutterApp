@@ -26,8 +26,3 @@ An SOS Alert application to help send SMS alerts to the police and to your emerg
 - Hardware buttons: Pressing 2 times volume down & 1 time volume up triggers SOS service. (NOT WORKING ON CERTAIN DEVICES)
 - Dark mode: To allow easy usage at night
 - Real-time Location: Option to share live location with people.
-
-
-## Screenshots
---------------------------------------------------
-![ss1](images/ss.jpg)
